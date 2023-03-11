@@ -3,9 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Project ](#project)
-  <!-- - [Screenshot](#screenshot)
-  - [Links](#links) -->
+
   - [Built with](#built-with)
 
 ## Overview
